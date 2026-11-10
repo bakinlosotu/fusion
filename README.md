@@ -66,7 +66,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:5173, then add your keys in Settings.
+Open[ http://localhost:5173](https://fusion-1.ai.studio), then add your keys in Settings.
 
 To build the production version:
 
